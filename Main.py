@@ -122,7 +122,7 @@ def main_men():
         else:
             slow_print("Invalid option, please try again.")
 
-        input("\nPress ENTER to return to menu...")
+        input("\nPress enter to return to menu...")
 
 if __name__ == "__main__":
     run_as_admin()
