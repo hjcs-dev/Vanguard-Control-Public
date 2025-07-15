@@ -67,7 +67,7 @@ Do **NOT** use this tool to cheat or bypass Valorant’s anti-cheat.
 
 ## License
 
-MIT License [LICENSE](https://github.com/hjcs-dev/Vanguard-Control/blob/main/LICENSE)
+MIT License [LICENSE](https://github.com/hjcs-dev/Vanguard-Control-Public/blob/main/LICENSE)
 
 ---
 
